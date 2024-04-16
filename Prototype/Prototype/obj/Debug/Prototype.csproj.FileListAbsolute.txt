@@ -1,0 +1,9 @@
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\c#\prototype\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\c#\prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\c#\prototype\Prototype\Prototype\obj\Debug\Prototype.pdb
